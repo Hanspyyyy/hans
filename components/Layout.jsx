@@ -20,10 +20,10 @@ const Layout = ({ children }) => {
     >
       {/* metadata */}
       <Head>
-        <title>Ethan Smith | Portfolio</title>
+        <title>Hakiman kim | Portfolio</title>
         <meta
           name="description"
-          content="Ethan Smith is a Full-stack web developer with 10+ years of experience."
+          content="Hakiman KIm a Full-stack web developer with 6+ years of experience."
         />
         <meta
           name="keywords"
