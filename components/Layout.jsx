@@ -29,7 +29,7 @@ const Layout = ({ children }) => {
           name="keywords"
           content="react, next, nextjs, html, css, javascript, js, modern-ui, modern-ux, portfolio, framer-motion, 3d-website, particle-effect"
         />
-        <meta name="author" content="Ethan Smith" />
+        <meta name="author" content="Hakiman Kim" />
         <meta name="theme-color" content="#f13024" />
       </Head>
 
